@@ -25,4 +25,4 @@ title: Research
  
 "New Perspectives on Homeownership Tax Incentives," with Benjamin H. Harris and C. Eugene Steuerle.  Tax Notes (December 23, 2013): 1315-32.
 
-"The Benefits of the Mortgage Interest and Property Tax Deductions," with Benjamin H. Harris
+"The Benefits of the Mortgage Interest and Property Tax Deductions," with Benjamin H. Harris. Tax Notes (August 26, 2013): 947.

@@ -5,13 +5,13 @@ title: CV
 
 # CV
 
-[PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20200512.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20200512.pdf) 
 
 ## Education
 
-Ph.D. Economics, Cornell University, Expected May 2021\\
-M.A. Economics, Cornell University, 2017\\
-B.A., Economics (with high honors), minors in Public Policy and Statistics, Swarthmore College, 2012
+- Ph.D. Economics, Cornell University, Expected May 2021
+- M.A. Economics, Cornell University, 2017
+- B.A., Economics (with high honors), minors in Public Policy and Statistics, Swarthmore College, 2012
 
 ## Academic Visits
 
@@ -67,25 +67,25 @@ Fall 2011: Teaching Assistant, Intermediate Microeconomics, Swarthmore College
 
 ## Service and Professional Activities
 
-Volunteer income tax preparer, United Way of Greater Mercer County, 2020\\
-Mentor, Policy Analysis \& Management Graduate Mentoring Program, Cornell University, 2017-2019\\
-Mentor, Economics Graduate Student Mentoring Program, Cornell University, 2016-2018\\
-Treasurer, Graduate Student Association for Economics, Cornell University, 2016-2017\\
-Treasurer, Graduate Students in Policy Analysis \& Management, Cornell University, 2015-2016\\
-Field Member for Economics, Graduate Student and Professional Assembly, Cornell University, 2015-2016\\
-Volunteer income tax preparer, DC EITC Campaign, 2013-2014\\
+- Volunteer income tax preparer, United Way of Greater Mercer County, 2020
+- Mentor, Policy Analysis & Management Graduate Mentoring Program, Cornell University, 2017-2019
+- Mentor, Economics Graduate Student Mentoring Program, Cornell University, 2016-2018
+- Treasurer, Graduate Student Association for Economics, Cornell University, 2016-2017
+- Treasurer, Graduate Students in Policy Analysis & Management, Cornell University, 2015-2016
+- Field Member for Economics, Graduate Student and Professional Assembly, Cornell University, 2015-2016
+- Volunteer income tax preparer, DC EITC Campaign, 2013-2014
 
 ## Honors and Fellowships
 
-Ernest Liu '64, Ta-Chung and Ya-Chao Liu Memorial Fellowship, Cornell University, 2017-2018\\
-Sage Fellowship, Cornell University, 2014-2015\\
-Adams Prize in Economics, Swarthmore College, 2012\\
-Phi Beta Kappa, 2012\\
-Robert M. Netting Undergraduate Student Paper Prize, American Anthropological Association, 2011
+- Ernest Liu '64, Ta-Chung and Ya-Chao Liu Memorial Fellowship, Cornell University, 2017-2018
+- Sage Fellowship, Cornell University, 2014-2015
+- Adams Prize in Economics, Swarthmore College, 2012
+- Phi Beta Kappa, 2012
+- Robert M. Netting Undergraduate Student Paper Prize, American Anthropological Association, 2011
 
 ## Other
 
-Programming: Stata, SAS, LaTeX, VBA, Fortran; experience with R, Python, Matlab\\
-Languages: English (native), Spanish (proficient), Mandarin (basic)\\
-Citizenship: USA\\
-Other: Special Sworn Status, U.S. Census Bureau (2017-present)
+*Programming*: Stata, SAS, $$ \LaTeX $$, VBA, Fortran; experience with R, Python, Matlab\\
+*Languages*: English (native), Spanish (proficient), Mandarin (basic)\\
+*Citizenship*: USA\\
+*Other*: Special Sworn Status, U.S. Census Bureau (2017-present)
