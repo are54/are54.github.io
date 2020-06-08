@@ -532,6 +532,6 @@ th, td {
     flex-direction: column;
   }
   .profile-bio {
-    padding-left: 0px;
+    padding: 0px;
   }
 }
