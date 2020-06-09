@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+#disqus:
+#  comments: false
+#  disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-1'
@@ -21,12 +21,12 @@ social:
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+#related_posts: 'You may also enjoy:'
 
-post_date_prefix: 'Written on'
+#post_date_prefix: 'Written on'
