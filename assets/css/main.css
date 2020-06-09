@@ -515,14 +515,15 @@ th, td {
 .profile {
   display: flex;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 .profile-picture {
-  flex-basis: 600px;
+  flex: 40%;
 }
 
 .profile-bio{ 
-  flex-grow: 1;
+  flex: 60%;
   padding: 2em;
   box-sizing: border-box;
 }
