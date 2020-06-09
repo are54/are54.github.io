@@ -33,7 +33,9 @@
   </script>
 
   <!-- Google Analytics -->
-  {% include google-analytics.html %}
+  {% if jekyll.environment == 'production' %}
+    {% include google-analytics.html %}
+  {% endif %}
 
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
