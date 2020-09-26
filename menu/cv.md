@@ -5,7 +5,7 @@ title: CV
 
 # CV
 
-[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20200512.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20200925.pdf) 
 
 ## Education
 
@@ -21,13 +21,17 @@ Industrial Relations Section, Princeton University, Visiting Student, 2019-2020
 
 Public Economics, Labor Economics
 
-## Working Papers
+## Job Market Paper
 
 "Income and the Take-Up of Means Tested Programs," with Kevin Rinz. (Job Market Paper)
 
-"Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. March 2020. (submitted)
+## Publications
 
-"Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients," with Jordan Matsudaira. January 2019. (under review)
+"Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. *Review of Economics of the Household*. (forthcoming) [Link to paper (with subscription)](https://link.springer.com/article/10.1007/s11150-020-09501-2)
+
+## Working Papers
+
+"Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients," with Jordan Matsudaira. September 2020. (Revise and Resubmit at *Journal of Labor Economics*)
 
 ## Works in Progress
 
@@ -37,21 +41,21 @@ Public Economics, Labor Economics
 
 ## Non-Peer Reviewed Publications
 
-"Municipal Debt: What Does It Buy and Who Benefits," with Harvey Galper, Kim Rueben, and Richard Auxier. National Tax Journal 67, no. 4 (December 2014): 901-24.
+"Municipal Debt: What Does It Buy and Who Benefits," with Harvey Galper, Kim Rueben, and Richard Auxier. *National Tax Journal* 67, no. 4 (December 2014): 901-24.
 
-"Evaluating Broad-Based Approaches for Limiting Tax Expenditures," with Eric J. Toder and Joseph Rosenberg. National Tax Journal 66, no. 4 (December 2013): 807-32.
+"Evaluating Broad-Based Approaches for Limiting Tax Expenditures," with Eric J. Toder and Joseph Rosenberg. *National Tax Journal* 66, no. 4 (December 2013): 807-32.
  
-"New Perspectives on Homeownership Tax Incentives," with Benjamin H. Harris and C. Eugene Steuerle.  Tax Notes (December 23, 2013): 1315-32.
+"New Perspectives on Homeownership Tax Incentives," with Benjamin H. Harris and C. Eugene Steuerle.  *Tax Notes* (December 23, 2013): 1315-32.
 
-"The Benefits of the Mortgage Interest and Property Tax Deductions," with Benjamin H. Harris.  Tax Notes (August 26, 2013): 947.
+"The Benefits of the Mortgage Interest and Property Tax Deductions," with Benjamin H. Harris.  *Tax Notes* (August 26, 2013): 947.
 
 ## Research and Work Experience
+
+Summer 2020, Spring 2019, Summer 2018: Research Assistant, Professor Pauline Leung, Cornell University
 
 Fall 2019-Spring 2020: Research Assistant, Professor Jordan Matsudaira, Columbia University
 
 Summer 2019, Fall 2018: Research Assistant, Professor Zhuan Pei, Cornell University
-
-Spring 2019, Summer 2018: Research Assistant, Professor Pauline Leung, Cornell University
 
 Summer 2017-Spring 2018: Research Assistant, Professor Jordan Matsudaira, Cornell University
 
@@ -61,12 +65,15 @@ Fall 2015-Spring 2017: Research Assistant, Professor Francine Blau, Cornell Univ
 
 ## Teaching Experience
 
-Spring 2012: Teaching Assistant, Intermediate Macroeconomics, Swarthmore College
+Fall 2020: Teaching Assistant, PAM 6090 Empirical Strategies for Policy Analysis (PhD course), Professor Douglas Miller, Cornell University
 
-Fall 2011: Teaching Assistant, Intermediate Microeconomics, Swarthmore College
+Spring 2012: Undergraduate Teaching Assistant, Intermediate Macroeconomics, Professor Mark Kuperberg, Swarthmore College
+
+Fall 2011: Undergraduate Teaching Assistant, Intermediate Microeconomics, Professor Ellen Magenheim, Swarthmore College
 
 ## Service and Professional Activities
 
+- Subcommittee Member, Policy Analysis & Management Diversity & Inclusion Graduate Subcommittee, 2020
 - Volunteer income tax preparer, United Way of Greater Mercer County, 2020
 - Mentor, Policy Analysis & Management Graduate Mentoring Program, Cornell University, 2017-2019
 - Mentor, Economics Graduate Student Mentoring Program, Cornell University, 2016-2018

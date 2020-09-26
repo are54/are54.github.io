@@ -20,7 +20,7 @@
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 18px;
+  font-size: 17px;
   color: #515151;
   line-height: 1.75rem;
 }
@@ -519,12 +519,14 @@ th, td {
 }
 
 .profile-picture {
-  flex: 40%;
+  flex: 38%;
 }
 
 .profile-bio{ 
-  flex: 60%;
-  padding: 2em;
+  flex: 62%;
+  padding-right: 1em;
+  padding-left: 2em;
+  padding-top: 1em;
   box-sizing: border-box;
 }
 
