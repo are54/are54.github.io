@@ -27,11 +27,11 @@ Public Economics, Labor Economics
 
 ## Publications
 
-"Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. *Review of Economics of the Household*. (forthcoming) [Link to paper (with subscription)](https://link.springer.com/article/10.1007/s11150-020-09501-2)
+"[Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants](https://link.springer.com/article/10.1007/s11150-020-09501-2){:target="_blank"}," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. *Review of Economics of the Household*. (forthcoming).
 
 ## Working Papers
 
-"Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients," with Jordan Matsudaira. September 2020. (Revise and Resubmit at *Journal of Labor Economics*)
+"[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients]({{ site.github.url }}/assets/pdf/EngMatsudaira_Pellfx_20200901.pdf)," with Jordan Matsudaira. September 2020. (Revise and Resubmit at *Journal of Labor Economics*).
 
 ## Works in Progress
 
