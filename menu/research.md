@@ -25,10 +25,10 @@ title: Research
 
 ## Non-Peer Reviewed Publications
 
-"Municipal Debt: What Does It Buy and Who Benefits," with Harvey Galper, Kim Rueben, and Richard Auxier. National Tax Journal 67, no. 4 (December 2014): 901-24.
+"[Municipal Debt: What Does It Buy and Who Benefits](https://www.ntanet.org/NTJ/67/4/ntj-v67n04p901-924-municipal-debt-buy-benefits.html){:target="_blank"}," with Harvey Galper, Kim Rueben, and Richard Auxier. National Tax Journal 67, no. 4 (December 2014): 901-24.
 
-"Evaluating Broad-Based Approaches for Limiting Tax Expenditures," with Eric J. Toder and Joseph Rosenberg. National Tax Journal 66, no. 4 (December 2013): 807-32.
+"[Evaluating Broad-Based Approaches for Limiting Tax Expenditures](https://www.ntanet.org/NTJ/66/4/ntj-v66n04p807-832-broad-based-limiting-tax-expenditures.html){:target="_blank"}," with Eric J. Toder and Joseph Rosenberg. National Tax Journal 66, no. 4 (December 2013): 807-32.
  
-"New Perspectives on Homeownership Tax Incentives," with Benjamin H. Harris and C. Eugene Steuerle.  Tax Notes (December 23, 2013): 1315-32.
+"[New Perspectives on Homeownership Tax Incentives](https://www.urban.org/research/publication/new-perspectives-homeownership-tax-incentives){:target="_blank"}," with Benjamin H. Harris and C. Eugene Steuerle.  Tax Notes (December 23, 2013): 1315-32.
 
-"The Benefits of the Mortgage Interest and Property Tax Deductions," with Benjamin H. Harris. Tax Notes (August 26, 2013): 947.
+"[The Benefits of the Mortgage Interest and Property Tax Deductions](https://www.urban.org/research/publication/benefits-mortgage-interest-and-property-tax-deductions){:target="_blank"}," with Benjamin H. Harris. Tax Notes (August 26, 2013): 947.
