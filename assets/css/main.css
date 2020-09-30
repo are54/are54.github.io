@@ -67,7 +67,7 @@ img {
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
-  border-left: 0.25em solid #ccc;
+  border-left: 0em solid #ccc;
   color: #999;
   line-height: 1.5;
 }
