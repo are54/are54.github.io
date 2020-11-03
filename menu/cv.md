@@ -23,7 +23,7 @@ Public Economics, Labor Economics
 
 ## Job Market Paper
 
-"Income and the Take-Up of Means Tested Programs," with Kevin Rinz. (Job Market Paper)
+"[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf)," with Kevin Rinz. (Job Market Paper)
 
 ## Publications
 
