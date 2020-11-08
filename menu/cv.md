@@ -5,7 +5,7 @@ title: CV
 
 # CV
 
-[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20200925.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20201107.pdf) 
 
 ## Education
 
@@ -27,11 +27,11 @@ Public Economics, Labor Economics
 
 ## Publications
 
-"[Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants](https://link.springer.com/article/10.1007/s11150-020-09501-2){:target="_blank"}," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. *Review of Economics of the Household*. (forthcoming).
+"[Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants](https://link.springer.com/article/10.1007/s11150-020-09501-2){:target="_blank"}," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. 2020. *Review of Economics of the Household* 18 (4): 907--958. 
 
 ## Working Papers
 
-"[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients]({{ site.github.url }}/assets/pdf/EngMatsudaira_Pellfx_20200901.pdf)," with Jordan Matsudaira. September 2020. (Revise and Resubmit at *Journal of Labor Economics*).
+"[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients]({{ site.github.url }}/assets/pdf/EngMatsudaira_Pellfx_20200901.pdf)," with Jordan Matsudaira. November 2020. (Accepted at *Journal of Labor Economics*).
 
 ## Works in Progress
 
@@ -41,13 +41,14 @@ Public Economics, Labor Economics
 
 ## Non-Peer Reviewed Publications
 
-"[Municipal Debt: What Does It Buy and Who Benefits](https://www.ntanet.org/NTJ/67/4/ntj-v67n04p901-924-municipal-debt-buy-benefits.html){:target="_blank"}," with Harvey Galper, Kim Rueben, and Richard Auxier. *National Tax Journal* 67, no. 4 (December 2014): 901-24.
 
-"[Evaluating Broad-Based Approaches for Limiting Tax Expenditures](https://www.ntanet.org/NTJ/66/4/ntj-v66n04p807-832-broad-based-limiting-tax-expenditures.html){:target="_blank"}," with Eric J. Toder and Joseph Rosenberg. *National Tax Journal* 66, no. 4 (December 2013): 807-32.
+"[Municipal Debt: What Does It Buy and Who Benefits](https://www.ntanet.org/NTJ/67/4/ntj-v67n04p901-924-municipal-debt-buy-benefits.html){:target="_blank"}," with Harvey Galper, Kim Rueben, and Richard Auxier. 2014. *National Tax Journal* 67 (4): 901-24.
+
+"[Evaluating Broad-Based Approaches for Limiting Tax Expenditures](https://www.ntanet.org/NTJ/66/4/ntj-v66n04p807-832-broad-based-limiting-tax-expenditures.html){:target="_blank"}," with Eric J. Toder and Joseph Rosenberg. 2013. *National Tax Journal* 66 (4): 807-32.
  
-"[New Perspectives on Homeownership Tax Incentives](https://www.urban.org/research/publication/new-perspectives-homeownership-tax-incentives){:target="_blank"}," with Benjamin H. Harris and C. Eugene Steuerle.  *Tax Notes* (December 23, 2013): 1315-32.
+"[New Perspectives on Homeownership Tax Incentives](https://www.urban.org/research/publication/new-perspectives-homeownership-tax-incentives){:target="_blank"}," with Benjamin H. Harris and C. Eugene Steuerle. December 23, 2013. *Tax Notes* : 1315-32.
 
-"[The Benefits of the Mortgage Interest and Property Tax Deductions](https://www.urban.org/research/publication/benefits-mortgage-interest-and-property-tax-deductions){:target="_blank"}," with Benjamin H. Harris.  *Tax Notes* (August 26, 2013): 947.
+"[The Benefits of the Mortgage Interest and Property Tax Deductions](https://www.urban.org/research/publication/benefits-mortgage-interest-and-property-tax-deductions){:target="_blank"}," with Benjamin H. Harris. August 26, 2013. *Tax Notes*: 947.
 
 ## Research and Work Experience
 
