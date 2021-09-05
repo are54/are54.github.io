@@ -5,42 +5,31 @@ title: CV
 
 # CV
 
-[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20201107.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20210905.pdf) 
 
+## Current Employment 
+
+Economist, U.S. Census Bureau, Center for Economic Studies, 2021-present
 ## Education
 
-- Ph.D. Economics, Cornell University, Expected May 2021
+- Ph.D. Economics, Cornell University, May 2021
 - M.A. Economics, Cornell University, 2017
 - B.A., Economics (with high honors), minors in Public Policy and Statistics, Swarthmore College, 2012
 
-## Academic Visits
+## Publications
 
-Industrial Relations Section, Princeton University, Visiting Student, 2019-2020
+"[Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants](https://link.springer.com/article/10.1007/s11150-020-09501-2){:target="_blank"}," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. 2020. *Review of Economics of the Household* 18 (4): 907--958. (IPUMS Time Use Research Award, Published Research, 2021)
 
-## Fields
-
-Public Economics, Labor Economics
-
-## Job Market Paper
+"[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients](https://www.journals.uchicago.edu/doi/abs/10.1086/712556?journalCode=jole){:target="_blank"}," with Jordan Matsudaira. *Journal of Labor Economics* 39 (52): S413--S454.
+## Working Papers
 
 "[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf)," with Kevin Rinz. (Job Market Paper)
 
-## Publications
-
-"[Culture and Gender Allocation of Tasks: Source Country Characteristics and the Division of Non-market Work among US Immigrants](https://link.springer.com/article/10.1007/s11150-020-09501-2){:target="_blank"}," with Francine Blau, Lawrence Kahn, Matthew Comey, Pamela Meyerhofer, and Alexander Will&#233;n. 2020. *Review of Economics of the Household* 18 (4): 907--958. 
-
-## Working Papers
-
-"[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients]({{ site.github.url }}/assets/pdf/EngMatsudaira_Pellfx_20200901.pdf)," with Jordan Matsudaira. November 2020. (Accepted at *Journal of Labor Economics*).
-
+"Stimulus Effects of the Earned Income Tax Credit"
 ## Works in Progress
 
-"Do Tax Refunds Create Short Term Stimulus? Evidence from the Earned Income Tax Credit"
-
 "The Earned Income Tax Credit and Infant Health"
-
 ## Non-Peer Reviewed Publications
-
 
 "[Municipal Debt: What Does It Buy and Who Benefits](https://www.ntanet.org/NTJ/67/4/ntj-v67n04p901-924-municipal-debt-buy-benefits.html){:target="_blank"}," with Harvey Galper, Kim Rueben, and Richard Auxier. 2014. *National Tax Journal* 67 (4): 901-24.
 
@@ -50,28 +39,33 @@ Public Economics, Labor Economics
 
 "[The Benefits of the Mortgage Interest and Property Tax Deductions](https://www.urban.org/research/publication/benefits-mortgage-interest-and-property-tax-deductions){:target="_blank"}," with Benjamin H. Harris. August 26, 2013. *Tax Notes*: 947.
 
-## Research and Work Experience
+## Previous Research and Work Experience
 
-Summer 2020, Spring 2019, Summer 2018: Research Assistant, Professor Pauline Leung, Cornell University
+Research Assistant, Professor Pauline Leung: Spring 2021, Summer 2020, Spring 2019, Summer 2018
 
-Fall 2019-Spring 2020: Research Assistant, Professor Jordan Matsudaira, Columbia University
+Research Assistant, Professor Jordan Matsudaira: Fall 2019-Spring 2020, Summer 2017-Spring 2018
 
-Summer 2019, Fall 2018: Research Assistant, Professor Zhuan Pei, Cornell University
+Research Assistant, Professor Zhuan Pei: Summer 2019, Fall 2018
 
-Summer 2017-Spring 2018: Research Assistant, Professor Jordan Matsudaira, Cornell University
+Research Assistant, Professor Francine Blau: Fall 2015-Spring 2017
 
-Fall 2015-Spring 2017: Research Assistant, Professor Francine Blau, Cornell Universtiy
-
-2012-2014: Research Assistant, The Urban Institute, Urban-Brookings Tax Policy Center
+Research Assistant, The Urban Institute, Urban-Brookings Tax Policy Center: 2012-2014
 
 ## Teaching Experience
 
-Fall 2020: Teaching Assistant, PAM 6090 Empirical Strategies for Policy Analysis (PhD course), Professor Douglas Miller, Cornell University
+Teaching Assistant, Empirical Strategies for Policy Analysis (PhD course), Cornell University, Fall 2020
 
-Spring 2012: Undergraduate Teaching Assistant, Intermediate Macroeconomics, Professor Mark Kuperberg, Swarthmore College
+Undergraduate Teaching Assistant, Intermediate Macroeconomics, Swarthmore College, Spring 2012
 
-Fall 2011: Undergraduate Teaching Assistant, Intermediate Microeconomics, Professor Ellen Magenheim, Swarthmore College
+Undergraduate Teaching Assistant, Intermediate Microeconomics, Swarthmore College, Fall 2011
 
+## Presentations
+
+2020: Association for Public Policy Analysis and Management Fall Research Conference (poster)
+
+## Refereeing
+
+*Review of Economics and Statistics*
 ## Service and Professional Activities
 
 - Subcommittee Member, Policy Analysis & Management Diversity & Inclusion Graduate Subcommittee, 2020
@@ -94,6 +88,6 @@ Fall 2011: Undergraduate Teaching Assistant, Intermediate Microeconomics, Profes
 ## Other
 
 *Programming*: Stata, SAS, $$ \LaTeX $$, VBA, Fortran; experience with R, Python, Matlab\\
-*Languages*: English (native), Spanish (proficient), Mandarin (basic)\\
+*Languages*: English (native), Spanish (advanced), Mandarin (basic)\\
 *Citizenship*: USA\\
 *Other*: Special Sworn Status, U.S. Census Bureau (2017-present)
