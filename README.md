@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a Ph.D. candidate in Economics at Cornell University.
+I am an Economist in the Center for Economic Studies at the U.S. Census Bureau.
 
 This site was built using the [Lagrange](https://github.com/LeNPaul/Lagrange) Jekyll theme created by Paul Le. 
 
