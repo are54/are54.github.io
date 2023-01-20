@@ -5,7 +5,7 @@ title: CV
 
 # CV
 
-[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20210905.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20230120.pdf) 
 
 ## Current Employment 
 
@@ -22,8 +22,9 @@ Economist, U.S. Census Bureau, Center for Economic Studies, 2021-present
 
 "[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients](https://www.journals.uchicago.edu/doi/abs/10.1086/712556?journalCode=jole){:target="_blank"}," with Jordan Matsudaira. *Journal of Labor Economics* 39 (52): S413--S454.
 ## Working Papers
+"[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}," with Matthew Comey and Zhuan Pei, arXiv:2212.14105.
 
-"[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf)," with Kevin Rinz. (Job Market Paper)
+"[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf)," with Kevin Rinz.
 
 "Stimulus Effects of the Earned Income Tax Credit"
 ## Works in Progress
@@ -65,7 +66,7 @@ Undergraduate Teaching Assistant, Intermediate Microeconomics, Swarthmore Colleg
 
 ## Refereeing
 
-*Review of Economics and Statistics*
+*Review of Economics and Statistics, Economics of Education Review*
 ## Service and Professional Activities
 
 - Subcommittee Member, Policy Analysis & Management Diversity & Inclusion Graduate Subcommittee, 2020
