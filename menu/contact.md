@@ -10,4 +10,4 @@ U.S. Census Bureau\\
 Washington, DC 20233
 
 ## Email
-amanda.r.eng@census.gov
+amanda(dot)r(dot)eng(at)census(dot)gov

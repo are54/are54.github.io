@@ -5,7 +5,7 @@ title: CV
 
 # CV
 
-[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_20230120.pdf) 
+[Open as PDF]({{ site.github.url }}/assets/pdf/Eng_CV_202404.pdf) 
 
 ## Current Employment 
 
@@ -22,14 +22,23 @@ Economist, U.S. Census Bureau, Center for Economic Studies, 2021-present
 
 "[Pell Grants and Student Success: Evidence from the Universe of Federal Aid Recipients](https://www.journals.uchicago.edu/doi/abs/10.1086/712556?journalCode=jole){:target="_blank"}," with Jordan Matsudaira. *Journal of Labor Economics* 39 (52): S413--S454.
 ## Working Papers
+
+"[Is the Gender Pay Gap Largest at the Top? Evidence from College Transcript Records](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-61.html){:target="_blank"}", with Ariel J. Binder, Kendall Houghton, and Andrew Foote. Center for Economics Studies Working Paper CES-23-61. 
+
+"[The Gender Pay Gap and its Determinants Across the Human Capital Distribution](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-31.html){:target="_blank"}," with Ariel J. Binder, Kendall Houghton, and Andrew Foote. Center for Economics Studies Working Paper CES-23-31. (associated [America Counts story](https://www.census.gov/library/stories/2024/02/gender-wage-gap-education.html){:target="_blank"})
+
+"[The Demographics of the Recipients of the First Economic Impact Payment](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-24.html){:target="_blank"}," with Leah R. Clark, Adam J. Cole, Ben S. Meiselman, Nikolas Pharris-Ciurej, Kevin Pierce, and John Voorheis. Center for Economics Studies Working Paper CES-23-24. (associated [America Counts story](https://www.census.gov/library/stories/2023/05/examining-equity-in-covid-19-stimulus-payments.html){:target="_blank"})
+
 "[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}," with Matthew Comey and Zhuan Pei, arXiv:2212.14105.
 
-"[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf)," with Kevin Rinz.
+"[Income and the Take-Up of Means Tested Programs]({{ site.github.url }}/assets/pdf/EITC_SNAP_Take_Up_11_02_2020.pdf){:target="_blank"}," with Kevin Rinz.
 
-"Stimulus Effects of the Earned Income Tax Credit"
 ## Works in Progress
 
-"The Earned Income Tax Credit and Infant Health"
+"The Construction of MOVS Infrastructure Data and Detailed Intragenerational Income Statistics" with Maggie R. Jones, Adam Bee, Kendall Houghton, Nikolas Pharris-Ciurej, Sonya R. Porter, Jonathan Rothbaum, and John Voorheis.
+
+"The Income of Bachelor's Degree Holders: Variation by Race, Ethnicity, and Gender," with Andrew Foote and Kendall Houghton.
+
 ## Non-Peer Reviewed Publications
 
 "[Municipal Debt: What Does It Buy and Who Benefits](https://www.ntanet.org/NTJ/67/4/ntj-v67n04p901-924-municipal-debt-buy-benefits.html){:target="_blank"}," with Harvey Galper, Kim Rueben, and Richard Auxier. 2014. *National Tax Journal* 67 (4): 901-24.
@@ -62,13 +71,15 @@ Undergraduate Teaching Assistant, Intermediate Microeconomics, Swarthmore Colleg
 
 ## Presentations
 
+2024: Association for Education Finance & Policy
+
 2020: Association for Public Policy Analysis and Management Fall Research Conference (poster)
 
 ## Refereeing
 
-*Review of Economics and Statistics, Economics of Education Review*
+*Review of Economics and Statistics, Economics of Education Review, American Economic Journal: Economic Policy*
 ## Service and Professional Activities
-
+- Volunteer income tax preparer, United Way of King County, 2022-present
 - Subcommittee Member, Policy Analysis & Management Diversity & Inclusion Graduate Subcommittee, 2020
 - Volunteer income tax preparer, United Way of Greater Mercer County, 2020
 - Mentor, Policy Analysis & Management Graduate Mentoring Program, Cornell University, 2017-2019
@@ -88,7 +99,7 @@ Undergraduate Teaching Assistant, Intermediate Microeconomics, Swarthmore Colleg
 
 ## Other
 
-*Programming*: Stata, SAS, $$ \LaTeX $$, VBA, Fortran; experience with R, Python, Matlab\\
+*Programming*: Stata, SAS, SQL, $$ \LaTeX $$, VBA, Fortran; experience with R, Python, Matlab\\
 *Languages*: English (native), Spanish (advanced), Mandarin (basic)\\
 *Citizenship*: USA\\
 *Other*: Special Sworn Status, U.S. Census Bureau (2017-present)
